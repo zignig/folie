@@ -42,7 +42,7 @@ console ---> select serial port ---> serial ( telnet or raw )
 
 Reworking this into 
 
-console ---> root console ---> router ---> muxer ---> ( multiple devices )
+console ---> root console ---> switchboard ---> muxer ---> ( multiple devices )
 
 
 
